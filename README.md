@@ -45,9 +45,6 @@ Fake accounts - We're generally taking a strong position against these if they'r
 #### Gambling?
 No gambling, NFTs or Cryptocurrency allowed. These accounts/posts will be deleted or suspended on the spot. We do not have the means nor patience to patrol the validity of gaming for money, gambling with real or alternative currencies.
 
-#### Ableist Language?
-Yes, please don't use it. Google what this means and unlearn these habits. 
-
 ### User Actions:
 
 You only see what you follow or what you go and look for. There is no algorithm here sending you any content. If you decide to view the local or federated feeds, be warned that there are MILLIONS of people who participate there.  You have the power of "mute" - not seeing anyones post and "blocking" not having that person be able to see your posts.  Use these to create the timeline(s) you want.  You can also use keyword filtering to block out entire keywords.  I get tired of seeing people RT to mastodon so I have a filter for "RT @" which means those are silenced.
@@ -62,6 +59,7 @@ Banned Promotion
 * NFTs 
 * fake "testing" jobs of any kind - games/gear/whatever - these are spam.
 * Over posting ebay, reverb or facebook marketplace (or any marketplace).  If you have a network of friends and you want them to know about an auction - go for it. If all you do is spam auctions - we're not here for that. 
+* If your first post is an add and your second and third are ads, you will be suspended. Again, we're humans over here. 
 
 Allowed:
 * Sell your own art/creations - be reasonable - not spammy
