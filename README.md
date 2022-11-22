@@ -67,7 +67,4 @@ Allowed:
 
 ## Bots
 
-Our instance is built for humans. Your bot may be better served by using instances built for bots where humans don't participate in the local channels such as https://botsin.space/about.
-
-Approved bots:  
-* WelcomeBot 
+Our instance is built for humans. Your bot may be better served by using instances built for bots where humans don't participate in the local channels such as https://botsin.space/about.  If your bot is well behaved and is adding value to the community, we will work with you.  If its just automated dumping of a lot of updates - we ask that you find another home.   A single APOD of the day is OK, but an image every 20 seconds to our local channel is unacceptable. And we don't need multiple APODS ;) 
