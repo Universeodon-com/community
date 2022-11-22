@@ -50,3 +50,6 @@ Yes, please don't use it. Google what this means and unlearn these habits.
 ### User Actions:
 
 You only see what you follow or what you go and look for. There is no algorithm here sending you any content. If you decide to view the local or federated feeds, be warned that there are MILLIONS of people who participate there.  You have the power of "mute" - not seeing anyones post and "blocking" not having that person be able to see your posts.  Use these to create the timeline(s) you want.  You can also use keyword filtering to block out entire keywords.  I get tired of seeing people RT to mastodon so I have a filter for "RT @" which means those are silenced.
+
+## Self-Promtion
+This one we're playing by ear. We don't want spam, we don't want people hijacking threads, we don't want to just have stuff dumped on people. This is a social network for humans. Put your website in your bio.  Engage with others as humans. Write content to share. If you're not adding value, you're probably being overly promoting.  We would feedback here, so please go to the discussions on this github page and open up a thread if you're interested in how to navigate this space.
