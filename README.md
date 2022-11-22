@@ -64,3 +64,9 @@ Banned Promotion
 Allowed:
 * Sell your own art/creations - be reasonable - not spammy
 * link to your store in your profile but talk like a human to other humans
+
+## Bots
+
+Right now, we're paying close attention to bots. If you have a bot that does good in the community, we may allow it but for now, make sure your bot is posting posts as "unlisted" so that only followers of your bot get the bot updates. We do not want bots filling up the local and federated timeline. If someone boosts your bots posts and those boosts get federated - well - kudos for writing a useful bot.
+
+We do not allow unverfied news bots that claim to use any logos of major news organizations. We hope these news organizations and reporters come to the fediverse and self-verify.
