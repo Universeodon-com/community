@@ -2,6 +2,7 @@
 
 Please be excellent to each other.  Our rules are meant to be simple, but moderating around them can be difficult.  This guide is being written to help surface our rules, clarify some positions and set precedence.
 
+
 Instance rules:
 
 ![image](https://user-images.githubusercontent.com/1461719/203134064-3d2aeec3-74a2-4b33-8517-11bf5db9e9b1.png)
@@ -42,7 +43,7 @@ Any of these kinds of things will result in an immediate ban:
 Fake accounts - We're generally taking a strong position against these if they're are acting in bad faith since we don't want to "poison the well".  Trust is important. If they are clearly marked as satire, they will be individually reviewed against the general rules of not causing harm or violating trademarks, registrations and other legal issues.
 
 #### Gambling?
-No gambling, NFTs or Cryptocurrency allowed. These accounts/posts will be deleted or suspended on the spot. We do not have the means nor patience to patrol the validity of gaming, gambling and alternative currencies.
+No gambling, NFTs or Cryptocurrency allowed. These accounts/posts will be deleted or suspended on the spot. We do not have the means nor patience to patrol the validity of gaming for money, gambling with real or alternative currencies.
 
 #### Ableist Language?
 Yes, please don't use it. Google what this means and unlearn these habits. 
@@ -53,3 +54,15 @@ You only see what you follow or what you go and look for. There is no algorithm 
 
 ## Self-Promtion
 This one we're playing by ear. We don't want spam, we don't want people hijacking threads, we don't want to just have stuff dumped on people. This is a social network for humans. Put your website in your bio.  Engage with others as humans. Write content to share. If you're not adding value, you're probably being overly promoting.  We would feedback here, so please go to the discussions on this github page and open up a thread if you're interested in how to navigate this space.
+
+Banned Promotion
+
+* Get rich schemes
+* Fake review jobs
+* NFTs 
+* fake "testing" jobs of any kind - games/gear/whatever - these are spam.
+* Over posting ebay, reverb or facebook marketplace (or any marketplace).  If you have a network of friends and you want them to know about an auction - go for it. If all you do is spam auctions - we're not here for that. 
+
+Allowed:
+* Sell your own art/creations - be reasonable - not spammy
+* link to your store in your profile but talk like a human to other humans
