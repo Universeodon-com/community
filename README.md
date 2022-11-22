@@ -22,7 +22,17 @@ Person threatens anyone - 0 tolerance. Account will be restricted.
 
 Person posts as satire about religion - No action taken. Please don't report these, just don't follow them and mute/keyword filter if you need to.
 
+Any of these kinds of things will result in an immediate ban:
+
+* Intentionally sending posts to someone that are designed to distress or insult them.
+* Using posts, screenshots or out of context quotes to mock or make fun of someone else.
+* Submitting false reports.
+* Continuing to interact with someone after they have told you to stop.
+* Threatening to harrass, threatening to dox, threatening to DDoS, or any other kind of threat.
+* Sexual harassment or acting in a sexually predatory way.
+
 Fake accounts - We're generally taking a strong position against these if they're are acting in bad faith since we don't want to "poison the well".  Trust is important. If they are clearly marked as satire, they will be individually reviewed against the general rules of not causing harm or violating trademarks, registrations and other legal issues.
+
 
 ### User Actions:
 
