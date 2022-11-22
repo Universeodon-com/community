@@ -14,6 +14,14 @@ Rules page here: https://universeodon.com/about
 
 Rule1:  You will not engage in any form of harassing, discriminatory, threatening or offensive speech or behavior including but not limited to race, gender identity and expression, national origin, religion, disability, marital status, age, sexual orientation, or other protected categories.
 
+Rule2: This server abides by the Mastodon Covenant - Please be excellent to each other.
+
+Rule3: Have fun, be creative, be inquisitive. This is your social network.
+
+Rule4: Clearly content warn 18+ content, food, drugs (legal or otherwise), slurs, ableist language, and other commonly tagged things. Keep it safe, we don't want to host your nudes.
+
+Rule5: No promotion of gambling, anti-vaccination, self-harm, terrorism, illegal activities, Abuse/exploitation, or Violence. 
+
 ### Moderation Actions:
 
 Person actively posts hate, racist comments or uses words intentionally to harm others - 0 tolerance. Account will be restricted
@@ -33,6 +41,11 @@ Any of these kinds of things will result in an immediate ban:
 
 Fake accounts - We're generally taking a strong position against these if they're are acting in bad faith since we don't want to "poison the well".  Trust is important. If they are clearly marked as satire, they will be individually reviewed against the general rules of not causing harm or violating trademarks, registrations and other legal issues.
 
+#### Gambling?
+No gambling, NFTs or Cryptocurrency allowed. These accounts/posts will be deleted or suspended on the spot. We do not have the means nor patience to patrol the validity of gaming, gambling and alternative currencies.
+
+#### Ableist Language?
+Yes, please don't use it. Google what this means and unlearn these habits. 
 
 ### User Actions:
 
