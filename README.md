@@ -67,6 +67,7 @@ Allowed:
 
 ## Bots
 
-Right now, we're paying close attention to bots. If you have a bot that does good in the community, we may allow it but for now, make sure your bot is posting posts as "unlisted" so that only followers of your bot get the bot updates. We do not want bots filling up the local and federated timeline. If someone boosts your bots posts and those boosts get federated - well - kudos for writing a useful bot.
+Our instance is built for humans. Your bot may be better served by using instances built for bots where humans don't participate in the local channels such as https://botsin.space/about.
 
-We do not allow unverfied news bots that claim to use any logos of major news organizations. We hope these news organizations and reporters come to the fediverse and self-verify.
+Approved bots:  
+* WelcomeBot 
